@@ -1,0 +1,22 @@
+
+.song-details {
+    display: flex;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.song-info-wrapper {
+    font-size: 20px;
+    margin-left: 70px;
+}
+
+.song-info-wrapper p {
+    text-align: left;
+}
+
+.artist-name {
+    font-weight: bold;
+    font-size: 25px;
+
+}
