@@ -1,7 +1,7 @@
 # Fetch-current-song-spotify
 
 ## What does the small app do?
-The app represents a small functionality/plugin that displays the current playing song on a real Spotify account after authenticating through the Spotify authentication services.
+The app represents a small functionality/plugin that displays the current playing song on a real Spotify account after authenticating through the Spotify API services.
 
 ## How to test and run the app? 
 For now, the app can function only on your local machine, which is why a couple of simple steps are needed: 
